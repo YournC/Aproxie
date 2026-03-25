@@ -12,3 +12,5 @@ The following assets used in this project are provided by Vecteezy.com under the
 
 
 **Usage of these assets requires attribution as per the Vecteezy Licensing terms.**
+
+https://www.vecteezy.com/
