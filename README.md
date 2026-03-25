@@ -45,3 +45,4 @@ More will be added in future updates.
 - **Chat reports and Modmail:** Talk to the moderators of Aproxie (and me) through Modmail and report messages/users in chats.
 - **Direct Messages:** Send private chat messages to people on your friends list.
 - **Bans:** Moderators would be able to temporarily ban annoying users from sending messages, for up to 24 hours.
+- **Emojis:** Emoji pallet to send emojis in chats.
