@@ -6,5 +6,4 @@ No.png
 
 VerifIcon.png by Katharina Hagemann - https://www.vecteezy.com/vector-art/36662880-check
 
-[Icon Name/Description] by [Artist Name (if available)] — [Direct Link to Asset]
 *Usage of these assets requires attribution as per the Vecteezy Licensing terms.*
