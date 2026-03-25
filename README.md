@@ -17,9 +17,6 @@ Chat allows different Aproxie users to communicate with each other. You are give
 - Usernames (and custom usernames)
 More will be added in future updates.
 
-### == NOTE ==
-**Chat is currently not working. This is a known issue and it will be fixed in the next version of Aproxie.**
-
 ## Planned features
 
 #### General
@@ -45,4 +42,4 @@ More will be added in future updates.
 - **Chat reports and Modmail:** Talk to the moderators of Aproxie (and me) through Modmail and report messages/users in chats.
 - **Direct Messages:** Send private chat messages to people on your friends list.
 - **Bans:** Moderators would be able to temporarily ban annoying users from sending messages, for up to 24 hours.
-- **Emojis:** Emoji pallet to send emojis in chats.
+- **Emojis:** Emoji pallet to send emoji reactions in chats. Emojis can already be pasted into the chat box and they work just fine, and I intend to add a box that lets you copy emojis to paste in as well as adding a system to send messages that are formatted differently, like `[username] :[😂]: [message]`.
