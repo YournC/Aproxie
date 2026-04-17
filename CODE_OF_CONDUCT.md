@@ -1,6 +1,6 @@
 # Code of Conduct and Community Guidelines
 Rules for Aproxie.
-By using Aproxie, you agree to follow all guidelines and acknowledge that I, YournC, expressively reserve the right to punish you for any violations at my own discretion and the discretion of my moderators.
+By using Aproxie, you agree to follow all guidelines and acknowledge that I- YournC, the developer of Aproxie- expressively reserve the right to punish you for any violations at my own discretion and the discretion of my moderators.
 
 ### Chat Guidelines
 While using Aproxie Chat, you must obey the following Community Guidelines:
