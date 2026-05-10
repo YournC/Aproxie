@@ -1,3 +1,11 @@
+# IMPORTANT ANNOUNCEMENT
+I an going to be completely rewriting Aproxie to optimize the code.
+
+This is definitely because I decided the code was bad and not because I accidentally corrupted the file containing all of my source code.
+As such, I will be releasing Aproxie beta #4 and then launch 1.0 soon after.
+Aproxie beta #4 will be using the new source code. I will try to keep the same visual assets as previous beta versions, though some may be missing.
+
+
 # Aproxie
 ### Description
 Todo: Write description
